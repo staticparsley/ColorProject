@@ -1,5 +1,5 @@
 # ColorProject
-Massive Color Project build using react.
+Massive Color Project built using react.
 
 This one took a while. 
 
